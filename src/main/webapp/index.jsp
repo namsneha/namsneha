@@ -10,7 +10,7 @@
 
 		<input type="text" name="num1" placeholder="Enter Number1"> <br>
 		<input type="text" name="num2" placeholder="Enter Number2"> <br>
-		<input type="text" name="num2" placeholder="Enter Number3"> <br>
+
 		
 
 		<br />
